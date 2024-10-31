@@ -1,5 +1,9 @@
+/**
+ *Submitted for verification at Etherscan.io on 2024-10-31
+*/
+
 // SPDX-License-Identifier: MIT
-pragma solidity 0.8.0;
+pragma solidity >=0.8.2 <0.9.0;
 
 contract BIT_KCA {
     //declaring the state variables
